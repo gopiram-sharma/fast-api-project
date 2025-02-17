@@ -1,0 +1,12 @@
+# POST request to create an item
+POST http://127.0.0.1:8000/items/
+Content-Type: application/json
+
+{
+    "name": "Test Item",
+    "description": "Test Description",
+    "price": 9.99
+}
+
+# GET request to read an item by ID
+GET http://127.0.0.1:8000/items/67af5ba3be161f4d917bffeb

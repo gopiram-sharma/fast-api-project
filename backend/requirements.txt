@@ -1,0 +1,15 @@
+fastapi[all]       # FastAPI framework with all optional dependencies
+uvicorn[standard]  # ASGI server for running FastAPI
+# SQLAlchemy[asyncio]  # ORM with async support
+asyncpg            # Async PostgreSQL driver
+alembic            # Database migrations
+pydantic           # Data validation
+passlib[bcrypt]    # Password hashing
+PyJWT              # JWT authentication
+python-dotenv      # Environment variables
+pytest
+pytest-asyncio
+httpx
+motor
+pymongo
+mongomock
