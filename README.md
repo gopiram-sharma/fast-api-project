@@ -34,8 +34,8 @@ This is a FastAPI project to learn and demonstrates how to build a RESTful API w
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/gopiram-sharma/fastapi-project.git
-    cd fastapi-project
+    git clone https://github.com/gopiram-sharma/fast-api-project.git
+    cd fast-api-project
     ```
 
 2. Create a virtual environment and activate it:
